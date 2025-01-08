@@ -25,22 +25,9 @@ Apasionado de la tecnología y disfrutando de una transición laboral al Data An
 
 * 🔭 Actualmente estoy trabajando en Teleperformance pero necesito nuevos retos :muscle:  
 
-* 🌱 Estoy estudiando :blue_book: y practicando :computer: Python, Power BI y SQL.
+* 🌱 Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
 
 * ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo 
 
 * 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Ignacio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ignaciodlcb/)
    
----
-   
-### :hammer_and_wrench: Lenguajes y herramientas :
-<div id="header" align="left">
-    <img src="https://img.shields.io/badge/LENGUAJE-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="LENGUAJE"/>   
-    <!-- Añade más iconos de tecnologías que uses -->
-</div>
-   
-### :fire: Mis estadísticas :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nachodlcb&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachodlcb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
